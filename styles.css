@@ -36,11 +36,10 @@ li{
 }
 table{
   font-size: 20px;
+  max-width:40%;
 
 }
 img{
-  width:75px;
-  height:75px;
-
+ max-width:40%;
 }
 
