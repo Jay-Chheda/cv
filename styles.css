@@ -3,11 +3,12 @@ background-color: #eeeeee;
 
 
 
+
 }
 hr {
 border-style: none;
 border-top-style: dotted;
-border-width: 6px;
+border-width: 10px;
 border-color:#00adb5 ;
 
 
@@ -22,8 +23,18 @@ h3{
 }
 h1{
   color: #222831;
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
 
 
+
+}
+p{
+  font-size: 20px
+}
+li{
+  font-size: 20px
+}
+table{
+  font-size: 20px;
 
 }
